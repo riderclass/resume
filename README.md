@@ -36,8 +36,6 @@
 <li>Stack: JS, React, Vue, Node.js</li>
 <li>Studied website design (HTML/CSS)</li>
 <li>Learning JavaScript, React, Vue, Ajax, Node.js</li>
-<li></li>
-<li>Integration with third party services like AmoCRM</li>
 </ul>
 <h2>Currently</h2>
 <p>
