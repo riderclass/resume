@@ -44,5 +44,5 @@ Check my recent work <a target="_blank" href="https://my-words-vue.web.app/sign-
 
 </p>
 <h2>Contacts</h2>
-Telegram: <a href="tg://resolve?domain=riderclass">@Riderclass</a><br>
+Telegram: <a href="http://t.me/riderclass">@Riderclass</a><br>
 WhatsApp: <a href="https://wa.me/79643758003">+7 (964) 375-80-03</a>
