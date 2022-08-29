@@ -6,6 +6,7 @@
 <li>Git</li>
 <li>Vue.js</li>
 <li>React.js</li>
+<li>Node.js</li>
 </ul>
 
 <h2>Additionally</h2>
