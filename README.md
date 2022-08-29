@@ -39,7 +39,7 @@
 </ul>
 <h2>Currently</h2>
 <p>
-I am fond of creating single page applications on popular modern frameworks. I am learning to create the right application architecture and developing in this area. Welcome to my <a href="https://github.com/riderclass?tab=repositories"><strong>repository</strong></a><br>
+I am fond of creating single page applications on popular modern frameworks. I am learning to create the right application architecture and developing in this area. Welcome to my <a href="https://github.com/riderclass?tab=repositories"><strong>repository</strong></a>!<br>
 Check my recent work <a target="_blank" href="https://my-words-vue.web.app/sign-in">here</a>. 
 
 </p>
