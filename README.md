@@ -2,7 +2,6 @@
 <h2>Key competencies</h2>
 <ul>
 <li>JavaScript</li>
-<li>OOP</li>
 <li>Git</li>
 <li>Vue.js</li>
 <li>React.js</li>
