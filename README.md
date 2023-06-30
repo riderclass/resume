@@ -1,4 +1,4 @@
-<h1>Junior Frontend Developer</h1>
+<h1>Frontend Developer</h1>
 <h2>Key competencies</h2>
 <ul>
 <li>JavaScript</li>
